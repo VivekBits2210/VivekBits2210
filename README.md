@@ -16,7 +16,7 @@
   
 🔭 My favourite dev project is SoulSpark : https://github.com/VivekBits2210/Soulspark
   
-🌱 I am learning : Transformers, PEFT
+🌱 I am learning : Fine-tuning LLMs (Distributed Training, LoRA)
 
 📫 Best way to contact : Mail me at "vgn2004@nyu.edu"
 
