@@ -10,11 +10,13 @@
 <div align="center">
   
 # 💫About Me :
-💻	Passionate Python developer, experienced in Django, Pytorch, Pandas and Pyspark.
+💻 Passionate Python developer, experienced in Django, Pytorch, Pandas and Pyspark.
 
-🔭 I’m currently working on SoulSpark : https://github.com/VivekBits2210/Soulspark
+💼 I work on the Snowpark team: https://github.com/snowflakedb/snowpark-python
   
-🌱 I’m currently learning : Pytorch, Transformers
+🔭 My favourite dev project is SoulSpark : https://github.com/VivekBits2210/Soulspark
+  
+🌱 I am learning : Pytorch, Transformers
 
 📫 Best way to contact : Mail me at "vgn2004@nyu.edu"
 
@@ -31,10 +33,5 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VivekBits2210&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ---
-![](https://komarev.com/ghpvc/?username=VivekBits2210&label=Visitors+Count&color=brightgreen)
 </div>
