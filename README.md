@@ -1,9 +1,9 @@
 <h3 align="center">
-  Welcome to Vivek's profile!
+  Hi, great to see you here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/VivekBits2210/VivekBits2210"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Master's+student+at+NYU;Currently+interning+at+Snowflake;Python+Developer;Always+up+for+a+game+of+chess;Shape+rotator"></a>
+  <a href="https://github.com/VivekBits2210/VivekBits2210"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I+am+Vivek+Nayak;Master's+student+at+NYU;Currently+interning+at+Snowflake;Python+Developer;Always+up+for+a+game+of+chess;Shape+rotator"></a>
 </p>
 
 ---
