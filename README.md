@@ -10,9 +10,9 @@
 <div align="center">
   
 # 💫About Me :
-💻 Passionate Python developer, experienced in Django, Pytorch, Pandas and Pyspark.
+💻 Passionate Python software developer, experienced in Django, Pytorch, Pandas and Pyspark.
 
-💼 I work on the Snowpark team: https://github.com/snowflakedb/snowpark-python
+💼 I work on the Snowpark team : https://github.com/snowflakedb/snowpark-python
   
 🔭 My favourite dev project is SoulSpark : https://github.com/VivekBits2210/Soulspark
   
