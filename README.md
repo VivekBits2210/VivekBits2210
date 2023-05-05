@@ -17,8 +17,7 @@
 🌱 I’m currently learning : Pytorch, Transformers
 
   📫 How to reach me:  
-  Mail me at "vgn2004@nyu.edu" or 
-  scroll to bottom of the page of and find CONTACT ME
+  Mail me at "vgn2004@nyu.edu"
 
 
 ## 🌐Socials
