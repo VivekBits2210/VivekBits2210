@@ -1,7 +1,7 @@
-<h3 align="center">
+<h2 align="center">
   Hi, great to see you here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h2>
 <p align="center">
     <a href="https://github.com/VivekBits2210/VivekBits2210"><img src="https://readme-typing-svg.herokuapp.com?color=%9370DB7&center=true&vCenter=true&lines=Welcome+to+Vivek's+profile!;Graduate+student+at+NYU;Interning+at+Snowflake;Intermediate+Python+developer;Always+up+for+a+game+of+chess+:);Shape+rotator"></a>
 </p>
@@ -48,7 +48,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=VivekBits2210&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekBits2210&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
+# 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VivekBits2210&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ---
