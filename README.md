@@ -12,7 +12,7 @@
 # 💫About Me
 💻 Experience : Python software developer, intermediate at Django, Pytorch, Pandas and Pyspark.
 
-❄️ I work at : Snowpark team at Snowflake. ([Repo](https://github.com/snowflakedb/snowpark-python))
+❄️ I work at : Snowflake, Snowpark team. ([Repo](https://github.com/snowflakedb/snowpark-python))
   
 🔭 My favorite dev project : SoulSpark ([Backend](https://github.com/VivekBits2210/Soulspark), [Frontend](https://github.com/VivekBits2210/SoulSpark-app))
   
