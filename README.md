@@ -12,11 +12,12 @@
 # 💫About Me :
 💻 Python software developer, experienced in Django, Pytorch, Pandas and Pyspark.
 
-❄️ I work on the Snowpark team at Snowflake : https://github.com/snowflakedb/snowpark-python
+❄️ I work on the Snowpark team at Snowflake ([Repo](https://github.com/snowflakedb/snowpark-python))
   
-🔭 SoulSpark is my favorite dev project : https://github.com/VivekBits2210/Soulspark
+🔭 SoulSpark is my favorite dev project ([Repo](https://github.com/VivekBits2210/Soulspark))
   
-🌱 I am learning : Fine-tuning Large Language Models (LLMs) https://github.com/VivekBits2210/fine-tuning-large-language-models-on-limited-hardware
+🌱 I am learning : Fine-tuning Large Language Models (LLMs) ([Repo](https://github.com/VivekBits2210/fine-tuning-large-language-models-on-limited-hardware))
+  
 📫 Best way to contact : Mail me at vgn2004@nyu.edu
 
 ## 🌐Socials
