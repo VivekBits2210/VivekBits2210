@@ -9,12 +9,12 @@
 ---
 <div align="center">
   
-# 💫About Me :
-💻 Python software developer, experienced in Django, Pytorch, Pandas and Pyspark.
+# 💫About Me
+💻 Experience : Python software developer, intermediate at Django, Pytorch, Pandas and Pyspark.
 
-❄️ I work on the Snowpark team at Snowflake. ([Repo](https://github.com/snowflakedb/snowpark-python))
+❄️ I work at : Snowpark team at Snowflake. ([Repo](https://github.com/snowflakedb/snowpark-python))
   
-🔭 SoulSpark is my favorite dev project. ([Backend](https://github.com/VivekBits2210/Soulspark), [Frontend](https://github.com/VivekBits2210/SoulSpark-app))
+🔭 My favorite dev project : SoulSpark ([Backend](https://github.com/VivekBits2210/Soulspark), [Frontend](https://github.com/VivekBits2210/SoulSpark-app))
   
 🌱 I am learning : Fine-tuning Large Language Models. ([Repo](https://github.com/VivekBits2210/fine-tuning-large-language-models-on-limited-hardware))
   
