@@ -12,13 +12,13 @@
 # 💫About Me :
 💻 Python software developer, experienced in Django, Pytorch, Pandas and Pyspark.
 
-❄️ I work on the Snowpark team at Snowflake ([Repo](https://github.com/snowflakedb/snowpark-python))
+❄️ I work on the Snowpark team at Snowflake. ([Repo](https://github.com/snowflakedb/snowpark-python))
   
-🔭 SoulSpark is my favorite dev project ([Backend](https://github.com/VivekBits2210/Soulspark), [Frontend](https://github.com/VivekBits2210/SoulSpark-app))
+🔭 SoulSpark is my favorite dev project. ([Backend](https://github.com/VivekBits2210/Soulspark), [Frontend](https://github.com/VivekBits2210/SoulSpark-app))
   
-🌱 I am learning : Fine-tuning Large Language Models (LLMs) ([Repo](https://github.com/VivekBits2210/fine-tuning-large-language-models-on-limited-hardware))
+🌱 I am learning : Fine-tuning Large Language Models. ([Repo](https://github.com/VivekBits2210/fine-tuning-large-language-models-on-limited-hardware))
   
-📫 Best way to contact : Mail me at vgn2004@nyu.edu
+📫 Best way to contact : E-mail me at vivek.nayak@nyu.edu.
 
 ## 🌐Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vgn2004@nyu.edu) [![Linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viveknayak2210/) 
