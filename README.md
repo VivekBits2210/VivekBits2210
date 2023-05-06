@@ -16,8 +16,7 @@
   
 🔭 SoulSpark is my favorite dev project : https://github.com/VivekBits2210/Soulspark
   
-🌱 I am learning : Fine-tuning Large Language Models (LLMs) on limited hardware (Distributed Training, LoRA)
-
+🌱 I am learning : Fine-tuning Large Language Models (LLMs) https://github.com/VivekBits2210/fine-tuning-large-language-models-on-limited-hardware
 📫 Best way to contact : Mail me at vgn2004@nyu.edu
 
 ## 🌐Socials
