@@ -14,7 +14,7 @@
 
 ❄️ I work on the Snowpark team at Snowflake ([Repo](https://github.com/snowflakedb/snowpark-python))
   
-🔭 SoulSpark is my favorite dev project ([Repo](https://github.com/VivekBits2210/Soulspark))
+🔭 SoulSpark is my favorite dev project ([Backend](https://github.com/VivekBits2210/Soulspark), [Frontend](https://github.com/VivekBits2210/SoulSpark-app))
   
 🌱 I am learning : Fine-tuning Large Language Models (LLMs) ([Repo](https://github.com/VivekBits2210/fine-tuning-large-language-models-on-limited-hardware))
   
