@@ -20,6 +20,10 @@
   
 📫 Best way to contact : E-mail me at vivek.nayak@nyu.edu.
 
+# 📊GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=VivekBits2210&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekBits2210&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 # 🌐Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vgn2004@nyu.edu) [![Linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viveknayak2210/) 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19298326933) 
@@ -43,10 +47,6 @@
 
 ### Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white) ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-
-# 📊GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=VivekBits2210&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekBits2210&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VivekBits2210&theme=discord&no-frame=false&no-bg=false&margin-w=4)
