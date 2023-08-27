@@ -25,7 +25,6 @@
 
 ## 🌐Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vgn2004@nyu.edu) [![Linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viveknayak2210/) 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19298326933) 
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/viveknayak2210)
 [![Chess](https://img.shields.io/badge/Lichess-808080?style=for-the-badge&logo=lichess&logoColor=white)](https://www.chess.com/member/viveknyuedu)
 
