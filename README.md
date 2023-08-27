@@ -15,7 +15,7 @@
   
 🔭 My favorite dev project : SoulSpark, an AI friend Android app. ([Backend](https://github.com/VivekBits2210/Soulspark), [Frontend](https://github.com/VivekBits2210/SoulSpark-app))
   
-🌱 I am learning : Fine-tuning Large Language Models. ([Repo](https://github.com/VivekBits2210/fine-tuning-large-language-models-on-limited-hardware))
+🌱 I am learning : Cython, Fine-tuning LLMs ([Repo](https://github.com/VivekBits2210/fine-tuning-large-language-models-on-limited-hardware))
   
 📫 Best way to contact : E-mail me at vivek.nayak@nyu.edu.
 
